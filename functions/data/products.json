@@ -1,0 +1,26 @@
+[
+  {
+    "sku": "001",
+    "name": "2 Cubic Meter Bin (2m3)",
+    "description": "1.8 X 1.4 X 0.9M",
+    "image": {
+      "url": "https://suspicious-bohr-740709.netlify.app/static/ee64d7dc86c1f5d7130635dfb094b07e/c5f46/bin.webp",
+      "key": "bin.png"
+    },
+    "amount": 16000,
+    "unit_amount": 160,
+    "currency": "aud"
+  },
+  {
+    "sku": "002",
+    "name": "3 Cubic Meter Bin (3m3)",
+    "description": "1.8 X 1.4 X 1.25M",
+    "image": {
+      "url": "https://suspicious-bohr-740709.netlify.app/static/ee64d7dc86c1f5d7130635dfb094b07e/c5f46/bin.webp",
+      "key": "bin.png"
+    },
+    "amount": 20000,
+    "unit_amount": 200,
+    "currency": "aud"
+  }
+]
